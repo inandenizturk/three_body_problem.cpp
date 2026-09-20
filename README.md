@@ -1,8 +1,6 @@
 
 
-https://github.com/user-attachments/assets/4bf50d5e-17bd-4559-adaf-f9951e01e828
 
-<img width="791" height="801" alt="Screenshot 2026-09-13 at 15 55 31" src="https://github.com/user-attachments/assets/616e8e68-14f8-4543-909b-238645d90e95" />
 <img width="791" height="801" alt="3body" src="https://github.com/user-attachments/assets/7b4a08c4-5b8e-4081-8689-86d7bbed33c3" />
 # 3-Body Problem Simulation (C++)
 
